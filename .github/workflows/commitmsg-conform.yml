@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   commitmsg-conform:
-    uses: aws-user-group-nz/actions-commitmsg-conform/.github/workflows/commitmsg-conform.yml@v1
+    uses: aws-user-group-nz/actions/.github/workflows/commitmsg-conform.yml@main

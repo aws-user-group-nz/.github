@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   markdown-lint:
-    uses: aws-user-group-nz/actions-markdown-lint/.github/workflows/markdown-lint.yml@v1
+    uses: aws-user-group-nz/actions/.github/workflows/markdown-lint.yml@main
